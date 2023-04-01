@@ -1,7 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
 
-import User from "./Users";
+import User from "./User";
 import "./Users.css";
 
 const UsersList = () => {
